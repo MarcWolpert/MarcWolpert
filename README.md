@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Marc+Wolpert?size=32?color=white?center=true)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=4DF710&center=true&width=435&lines=Marc+Wolpert)](https://git.io/typing-svg)
 <!--
 **MarcWolpert/MarcWolpert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
